@@ -1,5 +1,4 @@
-# <p align="center">👋 Hey, I am @EasyTecRepository<p>
-
+- 👋 Hey, I'm @EasyTecRepository
 - 👀 I'm interested in technology, RaspberryPi projects and writing scripts in Bash
 - 📫 If you have any questions, please contact us at kontakt@easytec.tech
 
