@@ -1,5 +1,5 @@
 - 👋 Hey, I'm @EasyTecRepository
-- 👀 I'm interested in technology, RaspberryPi projects and writing scripts in Bash
+- 👀 I'm interested in technology, RaspberryPi projects and writing scripts in Bash and Python
 - 📫 If you have any questions, please contact us at kontakt@easytec.tech
 
 <!---
